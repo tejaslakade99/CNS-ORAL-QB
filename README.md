@@ -126,3 +126,57 @@
 
 **28. Explain the concepts of physical and logical addresses.**
    - A physical address is a hardware-specific address, like a MAC address. A logical address is a network-specific address, like an IP address, used for routing and communication.
+
+**29. What are the different types of transmission media?**
+   - Transmission media include wired (e.g., coaxial cable, fiber optics) and wireless (e.g., radio waves, microwaves) mediums for data communication.
+
+**30. What is a repeater?**
+   - A repeater is a network device that amplifies and retransmits signals to extend the range of a network, often used in telecommunication and networking.
+
+**31. What is the purpose of bridges?**
+   - Bridges are used to connect and filter traffic between two or more network segments to improve network performance and security.
+
+**32. Define routers.**
+   - Routers are devices that connect different networks and determine the best path for data to travel between them, typically used in IP-based networks.
+
+**33. What is a gateway?**
+   - A gateway is a device or software that connects two different networks using different protocols, facilitating communication between them.
+
+**34. What is the role of switches?**
+   - Switches are network devices that forward data at the data link layer, making decisions based on MAC addresses to connect devices within the same network.
+
+**35. Differentiate between hubs and switches.**
+   - Hubs operate at the physical layer and broadcast data to all connected devices, while switches operate at the data link layer and intelligently forward data to specific devices.
+
+**36. Highlight the differences between switches and routers.**
+   - Switches operate at the data link layer, directing traffic within a network, while routers operate at the network layer, making decisions for traffic between networks.
+
+**37. Define cutoff switch and store-and-forward switch.**
+   - A cutoff switch is a switch that immediately forwards data without storing it, while a store-and-forward switch buffers data before forwarding it.
+
+**38. Explain manageable and unmanageable switches.**
+   - Manageable switches allow for configuration and monitoring, while unmanageable switches offer limited or no configuration options and are plug-and-play.
+
+**39. Why do we need web servers?**
+   - Web servers are essential for hosting websites and serving web content to users when they request it.
+
+**40. Define broadcast, multicast, and unicast.**
+   - Broadcast sends data to all devices on a network, multicast sends data to a select group, and unicast sends data to a specific device.
+
+**41. Explain what FDDI (Fiber Distributed Data Interface) is.**
+   - FDDI is a high-speed fiber optic network technology used for reliable data transmission in LANs.
+
+**42. What are Token Ring and Token Bus networks?**
+   - Token Ring and Token Bus are older LAN technologies where devices take turns to transmit data using tokens.
+
+**43. List IEEE standards from 802.2 to 802.16.**
+   - IEEE standards from 802.2 to 802.16 include Ethernet (802.3), Wi-Fi (802.11), and more.
+
+**44. Differentiate between leased lines and dial-up connections.**
+   - Leased lines are dedicated, high-speed connections, while dial-up connections use phone lines and are slower and on-demand.
+
+**45. What is an ISP (Internet Service Provider)?**
+   - An ISP is a company that provides internet access and related services to individuals and organizations.
+
+**46. Explain ICMP (Internet Control Message Protocol).**
+   - ICMP is a network protocol used for sending error messages and operational information about IP packet delivery.
