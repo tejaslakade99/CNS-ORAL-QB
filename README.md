@@ -59,8 +59,11 @@
    - Presentation: Translates, encrypts, or compresses data for transmission.
    - Application: Provides user interfaces and network services.
 
-**11. Draw diagrams of the OSI and TCP/IP reference models:**
-   - Diagrams cannot be drawn in a text-based format. You can find visual representations of these models online for reference.
+**11. Explain the working of each layer of the TCP/IP model:**
+   - Application: This interfaces with user applications and network services, such as web browsers, email clients, and file transfer tools.
+   - Transport: It ensures end-to-end communication and manages data transfer reliability using protocols like TCP (connection-oriented) and UDP (connectionless).
+   - Internet: Responsible for routing data packets across different networks, using IP addresses to determine the best path for data transmission.
+   - Link: Manages the physical transmission of data within a local network segment, addressing and framing data for efficient communication between devices on the same network.
 
 **12. Highlight the differences between OSI and TCP/IP models:**
    - OSI has 7 layers; TCP/IP has 4 layers (Application, Transport, Internet, Link).
