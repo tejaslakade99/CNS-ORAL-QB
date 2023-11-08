@@ -1,4 +1,4 @@
-# Computer Networks and Security (Oral Question Bank)
+# CNS (Oral Question Bank)
 
 **1. What are the different types of cables used in networking, and what connectors are used for each type?**
    - Ethernet cables, like Cat 5e or Cat 6, use RJ-45 connectors.
