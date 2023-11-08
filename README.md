@@ -85,3 +85,44 @@
    - Internet: Routers, layer 3 switches.
    - Link: Network interface cards (NICs), switches.
 
+**15. What is ATM (Asynchronous Transfer Mode)?**
+   - ATM (Asynchronous Transfer Mode) is a high-speed, cell-based switching and multiplexing technology used for data and voice communication.
+
+**16. Define tunneling in networking.**
+   - Tunneling in networking is the process of encapsulating one network protocol within another to transmit data securely or across incompatible networks.
+
+**17. Explain what fragmentation is in networking.**
+   - Fragmentation in networking refers to the division of data packets into smaller segments to accommodate transmission over networks with lower Maximum Transmission Unit (MTU) sizes.
+
+**18. Describe the two types of transmission technology available.**
+   - The two types of transmission technology available are Circuit Switching (dedicated communication path) and Packet Switching (data divided into packets for flexible routing).
+
+**19. What is subnetting, and when should it be used?**
+   - Subnetting is the process of dividing a larger IP network into smaller subnetworks; it should be used to manage IP address allocation efficiently.
+
+**20. Explain the difference between communication and transmission.**
+   - Communication is the exchange of information between two or more parties, while transmission is the physical or electronic transfer of data from one point to another.
+
+**21. What is a router?**
+   - A router is a network device that forwards data packets between computer networks, making decisions based on IP addresses.
+
+**22. Describe the Point-to-Point Protocol (PPP).**
+   - PPP is a data link protocol for establishing a direct connection between two devices, often used for internet connections, and providing error detection and authentication.
+
+**23. What is a MAC address, and how many bits is it typically composed of?**
+   - A MAC (Media Access Control) address is a hardware address for network interfaces, typically composed of 48 bits.
+
+**24. At which OSI layer does the IP address work, and can you provide an example?**
+   - IP addresses work at the network layer (Layer 3) of the OSI model. Example: 192.168.1.1.
+
+**25. How many classes are there in IPV4, and what are the ranges for each class?**
+   - There are 5 classes (A, B, C, D, and E). Class A: 1.0.0.0 to 126.0.0.0, Class B: 128.0.0.0 to 191.0.0.0, Class C: 192.0.0.0 to 223.0.0.0.
+
+**26. For each class, indicate the number of networks and hosts.**
+   - Class A: 16,777,214 networks and 16,777,214 hosts. Class B: 65,534 networks and 65,534 hosts. Class C: 2,097,150 networks and 254 hosts.
+
+**27. What is the default subnet mask for classes A, B, and C?**
+   - Class A: 255.0.0.0, Class B: 255.255.0.0, Class C: 255.255.255.0.
+
+**28. Explain the concepts of physical and logical addresses.**
+   - A physical address is a hardware-specific address, like a MAC address. A logical address is a network-specific address, like an IP address, used for routing and communication.
