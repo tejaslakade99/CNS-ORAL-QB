@@ -180,3 +180,19 @@
 
 **46. Explain ICMP (Internet Control Message Protocol).**
    - ICMP is a network protocol used for sending error messages and operational information about IP packet delivery.
+
+**47. What are the data units at different layers of the TCP/IP protocol suite?**
+   - Data units: At the Link layer, it's frames; Network layer, packets; Transport layer, segments; Application layer, data.
+
+**48. Explain the difference between ARP (Address Resolution Protocol) and RARP (Reverse ARP).**
+   - ARP resolves IP to MAC addresses, while RARP resolves MAC to IP addresses.
+
+**49. What is the minimum and maximum length of the header in the TCP segment and IP datagram?**
+   - TCP: Minimum 20 bytes, maximum 60 bytes; IP: Minimum 20 bytes, maximum 60 bytes.
+
+**50. Highlight the differences between TFTP (Trivial File Transfer Protocol) and FTP (File Transfer Protocol).**
+   - TFTP is simpler, lacks authentication, and uses UDP, while FTP is more feature-rich, includes authentication, and uses TCP.
+
+**51. Describe major types of networks.**
+   - Major network types: LAN (Local Area Network), WAN (Wide Area Network), MAN (Metropolitan Area Network), PAN (Personal Area Network), WLAN (Wireless LAN).
+
