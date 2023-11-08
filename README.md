@@ -1,4 +1,4 @@
-## Networking Fundamentals
+# Computer Networks and Security (Oral Question Bank)
 
 **1. What are the different types of cables used in networking, and what connectors are used for each type?**
    - Ethernet cables, like Cat 5e or Cat 6, use RJ-45 connectors.
@@ -40,3 +40,45 @@
 
 **8. What factors do you consider when designing a network for 10 PCs?**
    - Factors to consider include bandwidth requirements, scalability for future growth, security measures, cost-effectiveness, and the need for centralized services and data storage.
+
+**9. List the seven layers of the OSI model:**
+   1. Physical
+   2. Data Link
+   3. Network
+   4. Transport
+   5. Session
+   6. Presentation
+   7. Application
+
+**10. Explain the working of each layer of the OSI model:**
+   - Physical: Handles the physical transmission of data.
+   - Data Link: Manages data frames, error detection, and MAC addresses.
+   - Network: Routes data packets across networks.
+   - Transport: Ensures end-to-end communication, manages flow control, and error recovery.
+   - Session: Establishes, maintains, and terminates connections.
+   - Presentation: Translates, encrypts, or compresses data for transmission.
+   - Application: Provides user interfaces and network services.
+
+**11. Draw diagrams of the OSI and TCP/IP reference models:**
+   - Diagrams cannot be drawn in a text-based format. You can find visual representations of these models online for reference.
+
+**12. Highlight the differences between OSI and TCP/IP models:**
+   - OSI has 7 layers; TCP/IP has 4 layers (Application, Transport, Internet, Link).
+   - OSI is a theoretical model, while TCP/IP is the basis for the internet.
+   - OSI's presentation and session layers are integrated into the TCP/IP Application layer.
+
+**13. List the protocols that operate at each layer of the OSI model:**
+   - Physical: Ethernet, USB
+   - Data Link: Ethernet, Wi-Fi (802.11)
+   - Network: IP, ICMP
+   - Transport: TCP, UDP
+   - Session: NetBIOS, RPC
+   - Presentation: SSL/TLS, JPEG
+   - Application: HTTP, SMTP, FTP
+
+**14. List networking devices that function at each layer of the TCP/IP model:**
+   - Application: End-user devices (computers, smartphones).
+   - Transport: Routers, switches.
+   - Internet: Routers, layer 3 switches.
+   - Link: Network interface cards (NICs), switches.
+
